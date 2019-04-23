@@ -1,0 +1,10 @@
+﻿script 1: Add/Remove Users using a CSV file
+script 2: Create Security Groups using a CSV file
+script 3: Modify Security Groups using a CSV file
+script lab 8: Gather list of all computersi n domain and export to a CSV file
+script Assignment 9: Configuration Via PowerShell
+Script Lab 10: Add/Remove Users using a CSV file (updated A6)
+
+
+*note to change path for each script before usage.
+*modify CSV file before usage.
