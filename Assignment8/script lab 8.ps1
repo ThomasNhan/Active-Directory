@@ -1,0 +1,1 @@
+﻿Get-ADComputer -Filter * -properties * | Select Name,Enabled,Created,Modified,DistinguishedName | Export-Csv adcomputerlist.csv
